@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hassaan Tahir</h1>
 <h3 align="center">Developer</h3>
 
-- 🔭 I’m currently working on [Sayamunsi SEO](sayanamunshi.com)
+- 🔭 I’m currently working on a SaaS [DupeDrop](dupedrop.co)
 
-- 🌱 I’m currently learning **NextJs, Docker**
+- 🌱 I’m currently working in **NextJs**
 
 - 👯 I’m looking to collaborate on **Web / App projects.**
 
